@@ -1,1 +1,1 @@
-https://kdnprog.github.io/
+Gyűjtő weboldal: https://kdnprog.github.io/
